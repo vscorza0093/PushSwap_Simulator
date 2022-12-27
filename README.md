@@ -1,1 +1,10 @@
-# PushSwap_Simulator - IDEALIZADO E DESENVOLVIDO POR PAULA HEMSI
+# PushSwap_Simulator
+
+* Game Design: Paula Hemsi e Vinicius Scorza
+* Programação C# Unity: Paula Hemsi
+* Design: Paula Hemsi e Vinicius Scorza
+* Idealizado por: Paula Hemsi
+
+
+
+
