@@ -1,1 +1,1 @@
-# PushSwap_Simulator
+# PushSwap_Simulator - IDEALIZADO E DESENVOLVIDO POR PAULA HEMSI
