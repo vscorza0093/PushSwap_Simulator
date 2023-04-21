@@ -19,7 +19,7 @@
 *rrb : reverse rotate b - shift down all elements of stack_b by 1. The last element becomes the first one. 
 *rrr : rra and rrb at the same time.
 >
-* made with love in a cold pandemic weekend by paula, 42SP student, and vinicius. *
+# made with love in a cold pandemic weekend by paula, 42SP student, and vinicius. 
 
 Any issues please let us know ;)
 
