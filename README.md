@@ -1,7 +1,7 @@
 # PushSwap_Simulator
 
 * Game Design: Paula Hemsi e Vinicius Scorza
-* Programação C# Unity: Paula Hemsi
+* Programação C# Unity: Paula Hemsi e Vinicius Scorza
 * Design: Paula Hemsi e Vinicius Scorza
 * Idealizado por: Paula Hemsi
 
