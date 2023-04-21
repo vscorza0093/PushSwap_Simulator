@@ -6,7 +6,7 @@
 
 * To do this you have the following operations at your disposal: 
 
-<p style="font-family:verdana; font-size:80%">
+<div style="font-family:verdana; font-size:80%">
 * sa : swap a - swap the first 2 elements at the top of stack_a.
 * sb : swap b - swap the first 2 elements at the top of stack_b.
 * ss : sa and sb at the same time. 
@@ -18,7 +18,7 @@
 * rra : reverse rotate a - shift down all elements of stack_a by 1. The last element becomes the first one.  
 * rrb : reverse rotate b - shift down all elements of stack_b by 1. The last element becomes the first one. 
 * rrr : rra and rrb at the same time.
-</p>
+</div>
 <h3> Made with love in a cold pandemic weekend by paula, 42SP student, and vinicius. </h3>
 
 Any issues please let us know ;)
