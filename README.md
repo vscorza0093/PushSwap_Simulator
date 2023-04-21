@@ -1,4 +1,4 @@
-# PushSwap_Simulator
+<h1> PushSwap_Simulator </h1>
 
 * This project was made as a tool to visualize push_swap project from école 42.
 
