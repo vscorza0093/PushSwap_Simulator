@@ -1,5 +1,7 @@
 <h1> PushSwap_Simulator </h1>
 
+![Kapture 2022-12-27 at 16 22 53](https://user-images.githubusercontent.com/63563271/209687202-2e128788-95cc-4449-aeb9-6aa28389e144.gif)
+
 * This project was made as a tool to visualize push_swap project from école 42.
 
 * The goal is to sort random numbers in ascending order into stack_a with the minimum possible number of operations. 
@@ -28,4 +30,4 @@ Any issues please let us know ;)
 * Idealizado por: Paula Hemsi
 
 
-![Kapture 2022-12-27 at 16 22 53](https://user-images.githubusercontent.com/63563271/209687202-2e128788-95cc-4449-aeb9-6aa28389e144.gif)
+
